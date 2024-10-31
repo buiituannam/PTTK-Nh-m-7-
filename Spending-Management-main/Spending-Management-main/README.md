@@ -1,4 +1,4 @@
-# Project Công nghệ phần mềm chuyên sâu
+##
 <a name="top"><a>
 ## Mục lục
 
@@ -15,11 +15,13 @@
 Lớp: **SE214.N11** \
 Mã nhóm: **4** \
 Thành viên:
-| STT  | Tên                | MSSV      | Ghi chú     |
-|:-----|:-------------------|:----------|:------------|
-|  1   |  Trần Ngọc Tiến | 20520808  |  Trưởng nhóm|
-|  2   |  Lý Hồng Phong    |  20520364 |             |
-|  3   | Nguyễn Đình Thi | 20520771  |             |
+| STT  | Tên                | MSSV      |
+|:-----|:-------------------|:----------|
+|  1   |  NGUYỄN THỊ DIỆU LINH | 22014073 | 
+|  2   |  HOÀNG THỊ HOA MAI |  22010320 |
+|  3   |  PHAN VĂN CÔNG | 22010158 |
+|  4   |  NGUYỄN VĂN ĐẠT | 22010308 |
+|  5   |  BÙI TUẤN NAM | 22010822 |
 
 [Lên đầu trang](#top)
 ## Đề tài <a name="topic"></a>
