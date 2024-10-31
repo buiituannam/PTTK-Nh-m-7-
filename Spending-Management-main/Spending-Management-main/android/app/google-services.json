@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1019644092714",
+    "project_id": "spending-management-fae2d",
+    "storage_bucket": "spending-management-fae2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019644092714:android:1abec1b12cfcf32f033e53",
+        "android_client_info": {
+          "package_name": "com.example.spending_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019644092714-dvjcceia16lp2kdk8liv6s9tvecll3qv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spending_management",
+            "certificate_hash": "814e5f44eeb84590695d959930b1947b4f63f9ac"
+          }
+        },
+        {
+          "client_id": "1019644092714-es3dbqvbhobdgd7p26d977di06bs0blu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrYHq2aQdk7KO08UqpLC8nLUpgD55H-dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019644092714-es3dbqvbhobdgd7p26d977di06bs0blu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
