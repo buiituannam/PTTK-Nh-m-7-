@@ -26,7 +26,7 @@ Thành viên:
 [Lên đầu trang](#top)
 ## Đề tài <a name="topic"></a>
 
-Xây dựng phần mềm quản lý chi tiêu cá nhân trên di dộng
+Xây dựng phần mềm quản lý thu nhập, chi tiêu
 
 ## Mô tả Project <a name="project"></a>
 
